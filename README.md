@@ -1,4 +1,4 @@
-Código do cadastro do banco de dados
+Código do cadastro do banco de dados - PHP
 <?php
 session_start();
 if (!isset($_SESSION['username'])) {
